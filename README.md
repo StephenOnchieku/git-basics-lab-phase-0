@@ -28,18 +28,17 @@ initial commit and pushing that work to a remote repo stored on
 To start work on this lab, you will first need to fork this assignment and clone it to your
 local environment. Let's quickly review this process:
 
-1) Click the **Fork** button at the top of this page in Canvas.
+1) Click the **Fork** button at the top of this page in github.
+![image](https://github.com/user-attachments/assets/cfd802e2-96f4-489d-8c1b-12ed8b2ba6fe)
 
-![fork button](https://curriculum-content.s3.amazonaws.com/fork-link.png)
 
 > **Reminder:** This buttton does the same thing as [forking in GitHub][forking] (via the **Octocat** button).
-> We recommend using the **Fork** button in Canvas.
 
 [forking]: https://guides.github.com/activities/forking/
 
 2) Choose to fork to your personal account if prompted. Once the forking process is complete, you should be looking at your personal copy of the assignment on GitHub.
 
-3) Click **Code**, choose **SSH**, then click the _clipboard_ icon to copy the information we'll need about this repository.
+3) Click **Code**, choose **SSH**/**HTTPS**, then click the _clipboard_ icon to copy the information we'll need about this repository.
 
 4) In your terminal, type `git clone `, and paste the info you copied from GitHub. The command should look something like this (but with your personal account name):
 
