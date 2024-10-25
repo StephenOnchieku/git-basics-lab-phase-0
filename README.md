@@ -32,7 +32,7 @@ local environment. Let's quickly review this process:
 ![image](https://github.com/user-attachments/assets/cfd802e2-96f4-489d-8c1b-12ed8b2ba6fe)
 
 
-> **Reminder:** This buttton does the same thing as [forking in GitHub][forking] (via the **Octocat** button).
+> **Reminder:** This buttton is also known as the  **Octocat** button.
 
 [forking]: https://guides.github.com/activities/forking/
 
